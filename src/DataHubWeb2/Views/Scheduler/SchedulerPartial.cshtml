@@ -1,0 +1,9 @@
+@model DataHubWeb2.Model.SchedulerDataSource
+
+@{
+    var scheduler = Html.DevExpress().Scheduler(DataHubWeb2.Model.SchedulerHelper.Settings);
+    if(ViewBag.GeneralError != null) {
+        scheduler.SetErrorText(ViewBag.GeneralError);
+    }
+}
+@scheduler.Bind(Model.Appointments, Model.Resources).GetHtml()

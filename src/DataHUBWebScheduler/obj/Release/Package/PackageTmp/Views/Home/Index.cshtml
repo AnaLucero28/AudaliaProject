@@ -1,0 +1,17 @@
+@{
+    ViewBag.Title = "Home Page";
+    System.Security.Principal.WindowsIdentity user = HttpContext.Current.Request.LogonUserIdentity;
+    var pruebas = Audalia.DataHUBServer.Audit.AuditData.GetHolidays(2021)[0].Name;
+}
+
+
+<label>@user.Name</label>
+<br />
+<label>@pruebas</label>
+<br />
+<label>@Environment.UserName</label>
+<br />
+<label>@Context.User.Identity.Name</label>
+
+
+

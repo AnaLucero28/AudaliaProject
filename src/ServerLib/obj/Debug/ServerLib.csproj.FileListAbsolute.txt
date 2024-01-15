@@ -1,0 +1,7 @@
+C:\Proyectos\DataHUB\bin\ServerLib.dll
+C:\Proyectos\DataHUB\bin\ServerLib.pdb
+C:\Proyectos\DataHUB\src\ServerLib\obj\Debug\ServerLib.csprojAssemblyReference.cache
+C:\Proyectos\DataHUB\src\ServerLib\obj\Debug\ServerLib.csproj.CoreCompileInputs.cache
+C:\Proyectos\DataHUB\src\ServerLib\obj\Debug\ServerLib.dll
+C:\Proyectos\DataHUB\src\ServerLib\obj\Debug\ServerLib.pdb
+C:\Proyectos\DataHUB\src\ServerLib\obj\Debug\ServerLib.csproj.CopyComplete

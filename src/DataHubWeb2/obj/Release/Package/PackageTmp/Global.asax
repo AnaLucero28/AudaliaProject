@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="DataHubWeb2.MvcApplication" Language="C#" %>

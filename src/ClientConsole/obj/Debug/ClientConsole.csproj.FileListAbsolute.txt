@@ -1,0 +1,16 @@
+C:\Proyectos\DataHUB\src\ClientConsole\bin\Debug\ClientConsole.exe.config
+C:\Proyectos\DataHUB\src\ClientConsole\bin\Debug\ClientConsole.exe
+C:\Proyectos\DataHUB\src\ClientConsole\bin\Debug\ClientConsole.pdb
+C:\Proyectos\DataHUB\src\ClientConsole\bin\Debug\DataHUBClientLibrary.dll
+C:\Proyectos\DataHUB\src\ClientConsole\bin\Debug\DataHUBClientLibrary.pdb
+C:\Proyectos\DataHUB\bin\ClientConsole.exe.config
+C:\Proyectos\DataHUB\bin\ClientConsole.exe
+C:\Proyectos\DataHUB\bin\ClientConsole.pdb
+C:\Proyectos\DataHUB\bin\Client\ClientConsole.exe.config
+C:\Proyectos\DataHUB\bin\Client\ClientConsole.exe
+C:\Proyectos\DataHUB\bin\Client\ClientConsole.pdb
+C:\Proyectos\DataHUB\src\ClientConsole\obj\Debug\ClientConsole.csprojAssemblyReference.cache
+C:\Proyectos\DataHUB\src\ClientConsole\obj\Debug\ClientConsole.csproj.CoreCompileInputs.cache
+C:\Proyectos\DataHUB\src\ClientConsole\obj\Debug\ClientConsole.csproj.CopyComplete
+C:\Proyectos\DataHUB\src\ClientConsole\obj\Debug\ClientConsole.exe
+C:\Proyectos\DataHUB\src\ClientConsole\obj\Debug\ClientConsole.pdb

@@ -1,0 +1,17 @@
+C:\Proyectos\DataHUB\bin\DataHUBClientLibrary.dll
+C:\Proyectos\DataHUB\bin\DataHUBClientLibrary.pdb
+C:\Proyectos\DataHUB\bin\Client\DataHUBClientLibrary.dll
+C:\Proyectos\DataHUB\bin\Client\DataHUBClientLibrary.pdb
+C:\Proyectos\DataHUB\src\ClientLib\DataHUBClientLibrary.dll
+C:\Proyectos\DataHUB\src\ClientLib\DataHUBClientLibrary.pdb
+C:\Proyectos\DataHUB\src\ClientLib\DataHUBCommonLibrary.dll
+C:\Proyectos\DataHUB\src\ClientLib\DataHUBCommonLibrary.pdb
+C:\Proyectos\DataHUB\src\ClientLib\bin\DataHUBClientLibrary.dll
+C:\Proyectos\DataHUB\src\ClientLib\bin\DataHUBClientLibrary.pdb
+C:\Proyectos\DataHUB\src\ClientLib\bin\DataHUBCommonLibrary.dll
+C:\Proyectos\DataHUB\src\ClientLib\bin\DataHUBCommonLibrary.pdb
+C:\Proyectos\DataHUB\src\ClientLib\obj\Debug\DataHUBClientLibrary.csprojAssemblyReference.cache
+C:\Proyectos\DataHUB\src\ClientLib\obj\Debug\DataHUBClientLibrary.csproj.CoreCompileInputs.cache
+C:\Proyectos\DataHUB\src\ClientLib\obj\Debug\DataHUBClientLibrary.csproj.CopyComplete
+C:\Proyectos\DataHUB\src\ClientLib\obj\Debug\DataHUBClientLibrary.dll
+C:\Proyectos\DataHUB\src\ClientLib\obj\Debug\DataHUBClientLibrary.pdb

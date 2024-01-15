@@ -1,0 +1,11 @@
+C:\Proyectos\DataHUB\bin\ServerConsole.exe.config
+C:\Proyectos\DataHUB\bin\ServerConsole.exe
+C:\Proyectos\DataHUB\bin\ServerConsole.pdb
+C:\Proyectos\DataHUB\bin\Server\ServerConsole.exe.config
+C:\Proyectos\DataHUB\bin\Server\ServerConsole.exe
+C:\Proyectos\DataHUB\bin\Server\ServerConsole.pdb
+C:\Proyectos\DataHUB\src\ServerConsole\obj\Debug\ServerConsole.csprojAssemblyReference.cache
+C:\Proyectos\DataHUB\src\ServerConsole\obj\Debug\ServerConsole.csproj.CoreCompileInputs.cache
+C:\Proyectos\DataHUB\src\ServerConsole\obj\Debug\ServerConsole.csproj.CopyComplete
+C:\Proyectos\DataHUB\src\ServerConsole\obj\Debug\ServerConsole.exe
+C:\Proyectos\DataHUB\src\ServerConsole\obj\Debug\ServerConsole.pdb

@@ -1,0 +1,107 @@
+﻿@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*
+    <script type="text/javascript">
+        window.location = "./Scheduler";
+    </script>
+*@
+
+<div style="width:99%;">
+
+    <!--<div class="ajax-container" style="wwidth: 480px; width: auto; margin-left: auto; margin-right: auto;">-->
+    <div class="view-content index">
+
+    <div class="title">
+        <!--<h1>DevExpress ASP.NET MVC Controls</h1>-->
+        <h3>Audalia-Nexia</h3>
+        <p>
+            Bla bla...
+        </p>
+
+        <div class="block-content main-sections">
+
+            <div class=”row”>
+
+                <div class="content-item">
+                    <a href="./Scheduler">
+                        <div>
+                            <svg id="svg-scheduler" viewBox="0 0 40 40">
+                                <path fill="#627789" d="M33,5v3c0,0.6-0.5,1-1,1h-3c-0.5,0-1-0.4-1-1V5H13v3c0,0.6-0.4,1-1,1H9C8.4,9,8,8.6,8,8V5H3
+                                                    C2.5,5,2,5.4,2,6v31c0,0.5,0.5,1,1,1h34c0.5,0,1-0.5,1-1V6c0-0.6-0.5-1-1-1H33z M36,35c0,0.5-0.5,1-1,1H5c-0.6,0-1-0.5-1-1V13
+                                                    c0-0.6,0.4-1,1-1h30c0.5,0,1,0.4,1,1V35z" />
+                                <path fill="#627789" d="M11,8h-1C9.4,8,9,7.6,9,7V3c0-0.6,0.4-1,1-1h1c0.6,0,1,0.4,1,1v4C12,7.6,11.6,8,11,8z" />
+                                <path fill="#627789" d="M31,8h-1c-0.6,0-1-0.4-1-1V3c0-0.6,0.4-1,1-1h1c0.6,0,1,0.4,1,1v4C32,7.6,31.6,8,31,8z" />
+                                <path fill="#627789" d="M20,15c-5,0-9,4-9,9c0,5,4,9,9,9s9-4,9-9C29,19,25,15,20,15z M25,24c0,0.5-0.4,1-1,1h-4c-0.5,0-1-0.4-1-1
+                                                    v-5c0-0.5,0.4-1,1-1h0c0.5,0,1,0.4,1,1v4h3C24.6,23,25,23.4,25,24L25,24z" />
+                            </svg>
+
+                        </div>
+                        <h3>Agenda</h3>
+                    </a>
+                </div>
+
+                <div class="content-item">
+                    <a href="GridView">
+                        <div>
+                            <svg id="svg-pivotgrid" viewBox="0 0 40 40">
+                                <rect x="6" y="7" width="8" height="7" />
+                                <rect x="26" y="7" width="8" height="7" />
+                                <rect x="15" y="7" width="10" height="7" />
+                                <rect x="6" y="25" width="8" height="8" />
+                                <rect x="6" y="15" width="8" height="9" />
+                                <path d="M37,3H3C2.5,3,2,3.5,2,4v32c0,0.5,0.5,1,1,1h34c0.5,0,1-0.5,1-1V4C38,3.5,37.5,3,37,3z M36,35H4V5h32V35z" />
+                                <polygon points="31,33 19.3,33 24,25 19.4,17 31,17 31,19 22.6,19 26,25 22.7,31 31,31" />
+                            </svg>
+
+                        </div>
+                        <h3>Informes</h3>
+                    </a>
+                </div>
+                <!--
+                <div class="content-item">
+                    <a href="Scheduler">
+                        <div>
+                            <svg id="svg-pivotgrid" viewBox="0 0 40 40">
+                                <rect x="6" y="7" width="8" height="7" />
+                                <rect x="26" y="7" width="8" height="7" />
+                                <rect x="15" y="7" width="10" height="7" />
+                                <rect x="6" y="25" width="8" height="8" />
+                                <rect x="6" y="15" width="8" height="9" />
+                                <path d="M37,3H3C2.5,3,2,3.5,2,4v32c0,0.5,0.5,1,1,1h34c0.5,0,1-0.5,1-1V4C38,3.5,37.5,3,37,3z M36,35H4V5h32V35z" />
+                                <polygon points="31,33 19.3,33 24,25 19.4,17 31,17 31,19 22.6,19 26,25 22.7,31 31,31" />
+                            </svg>
+
+                        </div>
+                        <h3>Informes</h3>
+                    </a>
+                </div>
+
+                <div class="content-item" style="margin-left: 5px;">
+                    <a href="Scheduler">
+                        <div>
+                            <svg id="svg-pivotgrid" viewBox="0 0 40 40">
+                                <rect x="6" y="7" width="8" height="7" />
+                                <rect x="26" y="7" width="8" height="7" />
+                                <rect x="15" y="7" width="10" height="7" />
+                                <rect x="6" y="25" width="8" height="8" />
+                                <rect x="6" y="15" width="8" height="9" />
+                                <path d="M37,3H3C2.5,3,2,3.5,2,4v32c0,0.5,0.5,1,1,1h34c0.5,0,1-0.5,1-1V4C38,3.5,37.5,3,37,3z M36,35H4V5h32V35z" />
+                                <polygon points="31,33 19.3,33 24,25 19.4,17 31,17 31,19 22.6,19 26,25 22.7,31 31,31" />
+                            </svg>
+
+                        </div>
+                        <h3>Informes</h3>
+                    </a>
+                </div>
+                -->
+            </div>
+        </div>
+        <!--</div>-->
+    </div>
+    </div>
+</div>
+
+

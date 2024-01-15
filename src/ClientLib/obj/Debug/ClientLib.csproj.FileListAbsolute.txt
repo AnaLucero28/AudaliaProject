@@ -1,0 +1,6 @@
+C:\Proyectos\DataHUB\bin\ClientLib.dll
+C:\Proyectos\DataHUB\bin\ClientLib.pdb
+C:\Proyectos\DataHUB\src\ClientLib\obj\Debug\ClientLib.csproj.CoreCompileInputs.cache
+C:\Proyectos\DataHUB\src\ClientLib\obj\Debug\ClientLib.dll
+C:\Proyectos\DataHUB\src\ClientLib\obj\Debug\ClientLib.pdb
+C:\Proyectos\DataHUB\src\ClientLib\obj\Debug\ClientLib.csprojAssemblyReference.cache

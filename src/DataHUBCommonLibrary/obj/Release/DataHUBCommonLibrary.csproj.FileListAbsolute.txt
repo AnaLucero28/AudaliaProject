@@ -1,0 +1,6 @@
+C:\Proyectos\DataHUB\src\DataHUBCommonLibrary\bin\Release\DataHUBCommonLibrary.dll
+C:\Proyectos\DataHUB\src\DataHUBCommonLibrary\bin\Release\DataHUBCommonLibrary.pdb
+C:\Proyectos\DataHUB\src\DataHUBCommonLibrary\obj\Release\DataHUBCommonLibrary.csprojAssemblyReference.cache
+C:\Proyectos\DataHUB\src\DataHUBCommonLibrary\obj\Release\DataHUBCommonLibrary.csproj.CoreCompileInputs.cache
+C:\Proyectos\DataHUB\src\DataHUBCommonLibrary\obj\Release\DataHUBCommonLibrary.dll
+C:\Proyectos\DataHUB\src\DataHUBCommonLibrary\obj\Release\DataHUBCommonLibrary.pdb
